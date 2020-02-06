@@ -1,2 +1,2 @@
 # Advanced-Algorithms-
-Code examples for CS 53331: Advanced Algorithms 
+Code examples for CS 5331: Advanced Algorithms 
